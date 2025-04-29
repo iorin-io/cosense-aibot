@@ -12,6 +12,14 @@
 		"enabled": true
 	},
 	"browser": { "binding": "MYBROWSER"},
+
+	"kv_namespaces": [
+	  {
+		"binding": "SB_SESSIONS",
+		"id": "cbf561070af4429b8d8ee6064394947b",
+		"preview_id": "cf2c4f1d42054caa95938a3622b4ac97"
+	  }
+	]
 	/**
 	 * Smart Placement
 	 * Docs: https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
